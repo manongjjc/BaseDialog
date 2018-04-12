@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseDialog</string>
+    <string name="tishistr">提示</string>
+    <string name="contentstr">content</string>
+    <string name="cancel">取消</string>
+    <string name="confirmstr">确认</string>
+    <string name="selectbyalbumstr">从相册中选取</string>
+    <string name="selectbycamerastr">拍照</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="certificatecontentcolor">#888888</color>
+    <color name="dialogactleftcolor">#455262</color>
+    <color name="confirmcolor">#479DFD</color>
+    <color name="selectalbumcolor">#455262</color>
+    <color name="hirbarcolor">#e5e5e5</color>
+    <color name="whitecolor">#fff</color>
+    <color name="selectbyimgcancelcolor">#b3b7c1</color>
+</resources>
